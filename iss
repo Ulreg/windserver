@@ -1,4 +1,4 @@
-<title>Mail Server Gf2.DK</title>
+<title>NAVN PÅ WEBSITE</title>
 <style>
 body { text-align: center; padding: 150px; }
 h1 { font-size: 50px; }
@@ -10,9 +10,9 @@ a:hover { color: #333; text-decoration: none; }
 <article>
 <h1>Vi kommer tilbage snart!</h1>
 <div>
-<p>Beklager ulejligheden, men vi udfører lidt vedligeholdelse i øjeblikket på vores Mailserver. Hvis
+<p>Beklager ulejligheden, men vi udfører lidt vedligeholdelse i øjeblikket på vores hjemmeside. Hvis
 du har brug for hjælp kan du altid kontakte os, <a href="mailto:#"> Kontakt Os</a>, ellers vil vi
 snart være online igen!</p>
-<p>&mdash; Gf2-Teamet</p>
+<p>&mdash; NAVN PÅ TEAM</p>
 </div>
 </article>
